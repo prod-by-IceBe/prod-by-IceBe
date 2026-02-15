@@ -35,8 +35,8 @@
 
 ### 📊 Моя статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IceBe&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceBe&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=ffffff" alt="Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prod-by-IceBe&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prod-by-IceBe&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=ffffff" alt="Langs" height="180px" />
 </p>
 
 ---
