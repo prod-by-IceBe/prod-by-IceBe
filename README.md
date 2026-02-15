@@ -26,16 +26,16 @@
 
 ### 📊 Моя статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prod-by-IceBe&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prod-by-IceBe&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=ffffff" alt="Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prod-by-IceBe&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prod-by-IceBe&layout=compact&theme=dark&hide_border=true&title_color=007ACC" alt="Langs" height="180px" />
 </p>
 
 ---
 
 ### 📫 Как со мной связаться
 <p align="left">
-<a href="https://t.me/YOUR_TELEGRAM" target="blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:your-email@mail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/IceBe_prod" target="blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:romariper777@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
