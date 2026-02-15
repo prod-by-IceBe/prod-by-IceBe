@@ -1,17 +1,8 @@
-### Frontend Developer | Превращаю идеи в качественный интерфейс
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Привет,%20я%20IceBe%20👋&fontSize=50&animation=fadeIn" />
 </div>
 
 ### 🚀 Frontend Developer | Создаю интерфейсы, которые оживают
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Work-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Remote%20/%20Office-blue?style=flat-square" />
-</p>
 
 ---
 
@@ -42,12 +33,9 @@
 ---
 
 ### 📫 Как со мной связаться
-Буду рад пообщаться по поводу работы или совместных проектов:
-
 <p align="left">
-<a href="https://t.me/ТВОЙ_НИК" target="blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:твой@мейл.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/YOUR_TELEGRAM" target="blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:your-email@mail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
