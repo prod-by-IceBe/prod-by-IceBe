@@ -34,7 +34,7 @@
 
 ### 📫 Как со мной связаться
 <p align="left">
-<a href="https://t.me/IceBe_prod" target="blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/IceMeBeats" target="blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:romariper777@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
