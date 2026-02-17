@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Привет,%20я%20IceBe%20👋&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Привет,%20я%20Роман%20👋&fontSize=50&animation=fadeIn" />
 </div>
 
 ### Frontend Developer | Создаю интерфейсы, которые оживают
